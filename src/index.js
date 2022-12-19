@@ -10,6 +10,12 @@ root.render(
     <div className="SearchEngine">
       <h1>Weather App</h1>
       <Weather />
+  <h2>
+        <a href="https://github.com/AishwaryaVenkatesh/Weather-React">
+          Open Source Code
+        </a>{" "}
+        by Aishwarya
+      </h2>
     </div>
   </React.StrictMode>
 );
